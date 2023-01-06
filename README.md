@@ -1,6 +1,6 @@
 ### Greetings fellow learners 👋
 
-- 🌱 I’m currently learning Azure Virtual Networking, formally.
+- 🌱 I’m currently learning Python and aiming towards the Cisco DEVCOR exam.
 - 👯 I’m looking to collaborate on all Python and Ansible projects that can help fellow IT professionals move problems on.
 <!--
 **mistabe/mistabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
